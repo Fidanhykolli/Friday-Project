@@ -1,0 +1,163 @@
+/* Your styles here */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
+}
+
+
+main{
+margin-left: 2.5%;
+margin-right: 2.5%;
+
+}
+
+
+.backImg{
+    background-color: #222f3f;
+    height: 90px;
+    width: 100%;
+    color: #eaeded;
+}
+
+
+.backImg img{
+    margin-top:  5px;
+    margin-left: 2%;
+}
+
+
+.All{
+    background-color: #364759;
+    height: 30px;
+    width: 100%;
+    padding-left: 1%;
+    padding-top: 8px;
+}
+
+
+.All span {
+  margin-left: 30px;
+}
+
+
+.All a{
+    text-decoration: none;
+}
+
+
+.orangeColor{
+    background-color: #F76500;
+    height: 35px;
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.orangeColor p{
+    padding-top: 8.5px;
+}
+
+
+.orangeColor a{
+    text-decoration: none;
+}
+
+
+.presentsImg{
+    background-image: url(/Amazon\ Page/assets/images/bg-image.png);
+    height: 280px;
+    background-repeat: repeat;
+    background-size: 92%;
+    width: 100%;
+    text-align: center;
+    margin-top: 2.5%;
+}
+
+
+.presentsImg h1 {
+    padding-top: 70px;
+    line-height: 7rem;
+}
+
+
+.fourImg{
+    background-color: white;
+    height: 650px;
+    margin-top: 2.5%;
+   padding-left: 12px;
+}
+
+
+.fourImg img{
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 25px;
+    box-shadow: 1.5px 1.5px 18px rgb(179, 179, 179); 
+}
+
+
+.fourImg p{
+    margin-left: 1.5%;
+    padding-top: 1%;
+}
+
+
+.fourImg a{
+    text-decoration: none;
+}
+
+
+.vrPhoto{
+    margin-top: 2.5%;
+    text-align: center;
+}
+
+
+.vrPhoto a {
+text-decoration: none;
+}
+
+
+.marshallPhoto{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.marshallPhoto a {
+    text-decoration: none;
+}
+
+
+.backToTop{
+    background-color: #364759 ;
+    height: 50px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.backToTop a {
+    color: whitesmoke;
+}
+
+
+.backToTop p {
+    padding-top: 15px;
+}
+
+
+.lastLogo{
+    background-color: #222f3f;
+    text-align: center;
+    height: 200px;
+}
+
+
+.lastLogo img{
+margin-top: 80px;
+}
+
+
+
